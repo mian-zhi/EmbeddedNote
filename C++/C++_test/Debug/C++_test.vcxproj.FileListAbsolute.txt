@@ -1,0 +1,2 @@
+C:\Users\56241\Desktop\嵌入式学习\C++\C++_test\Debug\C++_test.exe
+C:\Users\56241\Desktop\嵌入式学习\C++\C++_test\Debug\C++_test.pdb
